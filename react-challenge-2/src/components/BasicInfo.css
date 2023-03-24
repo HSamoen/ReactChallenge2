@@ -1,0 +1,16 @@
+.BasicInfo{
+    background-color: rgb(64, 67, 64);
+    border-radius: 5px;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.BasicInfo ul {
+    margin-bottom: 80px;
+}
+.BasicInfo-Info li{
+    list-style: none;
+    margin-bottom: 5px;
+}
+
